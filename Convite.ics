@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Casamento//Sthephany e Matheus//PT
+BEGIN:VEVENT
+SUMMARY:Casamento Sthephany & Matheus 💍
+DTSTART:20260904T220000Z
+DTEND:20260905T050000Z
+LOCATION:Lagunn Gourmet, Governador Valadares - MG
+DESCRIPTION:Momento especial de Sthephany e Matheus. Não se esqueça!
+BEGIN:VALARM
+TRIGGER:-P30D
+ACTION:DISPLAY
+DESCRIPTION:Falta 1 mês para o casamento!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P15D
+ACTION:DISPLAY
+DESCRIPTION:Falta 15 dias para o casamento!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
